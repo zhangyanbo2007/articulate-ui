@@ -5,6 +5,11 @@ This project is tailored from [Articulate](https://github.com/samtecspg/articula
 
 Thanks for Articulate open sourced its awesome project. Let BotSharp has the opportunity to integrate with Articulate to provide the best experience for the chatbot developers.
 
+#### Demo in screen record
+This is a music bot connected with IoT device.
+
+![music bot](https://raw.githubusercontent.com/Oceania2018/articulate-ui/master/botsharp-with-articulate.gif)
+
 
 #### How to install
 Make sure you have installed BotSharp NLU before you try the UI.
