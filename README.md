@@ -8,11 +8,9 @@ Thanks for Articulate open sourced its awesome project. Let BotSharp has the opp
 #### Demo in screen record
 This is a music bot connected with IoT device.
 
-<video controls="controls">
-  <source type="video/mp4" src="https://raw.githubusercontent.com/Oceania2018/articulate-ui/master/botsharp-with-articulate.mp4"></source>
-  <source type="video/mp4" src="https://raw.githubusercontent.com/Oceania2018/articulate-ui/master/botsharp-with-articulate.ogg"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
+![music bot demo](botsharp-with-articulate.gif)
+
+download mp4: [botsharp-with-articulate.mp4](botsharp-with-articulate.mp4)
 
 #### How to install
 Make sure you have installed BotSharp NLU before you try the UI.
