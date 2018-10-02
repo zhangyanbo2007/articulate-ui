@@ -10,6 +10,7 @@ This is a music bot connected with IoT device.
 
 <video controls="controls">
   <source type="video/mp4" src="https://raw.githubusercontent.com/Oceania2018/articulate-ui/master/botsharp-with-articulate.mp4"></source>
+  <source type="video/mp4" src="https://raw.githubusercontent.com/Oceania2018/articulate-ui/master/botsharp-with-articulate.ogg"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 
