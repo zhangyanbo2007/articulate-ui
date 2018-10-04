@@ -11,7 +11,7 @@ This is a music bot connected with IoT device.
 ![music bot demo](https://raw.githubusercontent.com/Oceania2018/articulate-ui/master/botsharp-with-articulate.ogg)
 
 #### How to install
-Make sure you have installed BotSharp NLU before you try the UI.
+Make sure you have [BotSharp Articulate emulator](https://github.com/Oceania2018/botsharp-articulate) installed before you try the UI.
 ```
 git clone https://github.com/Oceania2018/articulate-ui
 npm install
